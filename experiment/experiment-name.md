@@ -1,1 +1,1 @@
-## Experiment name
+## Grain Fineness Number (Sieve Shaker experiment)
