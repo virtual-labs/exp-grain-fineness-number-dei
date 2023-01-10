@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.   On what basis are the meshes of the sieve shaker sized:",
+      "question": "On what basis are the meshes of the sieve shaker sized:",
 	  "answers": {
 		"a": "Vigility of agitation",
 		"b": "Size of sand grains",
@@ -13,7 +13,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2.   In which fasion are the sieves arranged in a shaker in accordance to the size of the meshes top to bottom:",
+      "question": "In which fasion are the sieves arranged in a shaker in accordance to the size of the meshes top to bottom:",
 	  "answers": {
 		"a": "Increasing",
 		"b": "Decreasing",
@@ -24,7 +24,7 @@
       "difficulty": "beginner"
     },
 	{
-      "question": "3. Where is the sand sample introduced initially:",
+      "question": "Where is the sand sample introduced initially:",
 	  "answers": {
 		"a": "Topmost sieve",
 		"b": "Bottom sieve",
@@ -35,7 +35,7 @@
       "difficulty": "beginner"
     },
 	{
-      "question": "4. In which sieve are the finest grains collected:",
+      "question": "In which sieve are the finest grains collected:",
 	  "answers": {
 		"a": "Topmost sieve",
 		"b": "Below the sieve shaker",
@@ -46,7 +46,7 @@
       "difficulty": "beginner"
     },
 	{
-      "question": "5. Which number is calculated by sieve shaker apparatus",
+      "question": "Which number is calculated by sieve shaker apparatus",
 	  "answers": {
 		"a": "Sphericity",
 		"b": "Roundness Number",

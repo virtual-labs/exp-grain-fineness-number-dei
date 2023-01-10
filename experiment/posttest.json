@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.   For how much time is the sieve shaker agitated:",
+      "question": "For how much time is the sieve shaker agitated:",
 	  "answers": {
 		"a": "2-3 mins",
 		"b": "60-90 secs",
@@ -13,7 +13,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. How many sieves are present in the sieve shaker apparatus (excluding the sieve pan):",
+      "question": "How many sieves are present in the sieve shaker apparatus (excluding the sieve pan):",
 	  "answers": {
 		"a": "5",
 		"b": "10",
@@ -24,7 +24,7 @@
       "difficulty": "beginner"
     },
 	{
-	  "question": "3. What is the relation in the weight of the total sand sample before and after the experiment:",
+	  "question": "What is the relation in the weight of the total sand sample before and after the experiment:",
 	  "answers": {
 		"a": "Weights are equal",
 		"b": "Weight of the sample is more before the experiment",
@@ -35,7 +35,7 @@
 	  "difficulty": "beginner"
 	},
 	{
-	  "question": "4. Sieve number of the sieve containing the coarsest sand grain is:",
+	  "question": "Sieve number of the sieve containing the coarsest sand grain is:",
 	  "answers": {
 		"a": "53",
 		"b": "49",
@@ -46,7 +46,7 @@
 	  "difficulty": "beginner"
 	},
 	{
-	"question": "5. Sieve number of the sieve containing the finest sand grain (just above the sieve pan) is:",
+	"question": "Sieve number of the sieve containing the finest sand grain (just above the sieve pan) is:",
 	"answers": {
 		"a": "53",
 		"b": "49",
