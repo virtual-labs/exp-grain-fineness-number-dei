@@ -9,6 +9,12 @@
 		"c": "10-15 mins",
 		"d": "30 secs"
       },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -20,6 +26,12 @@
 		"c": "20",
 		"d": "3"
 	  },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	  "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -31,6 +43,12 @@
 		"c": "Weight of the sample is more after the experiment",
 		"d": "Any of the above conditions can happen"
 	  },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	  "correctAnswer": "a"
 	  "difficulty": "beginner"
 	},
@@ -42,6 +60,12 @@
 		"c": "2200",
 		"d": "1700"
 	  },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	  "correctAnswer": "d"
 	  "difficulty": "beginner"
 	},
@@ -53,6 +77,12 @@
 		"c": "2200",
 		"d": "1700"
 	  },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	"correctAnswer": "a"
 	"difficulty": "beginner"
 	}
