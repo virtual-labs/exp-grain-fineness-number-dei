@@ -2,38 +2,59 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "question": "For how much time is the sieve shaker agitated:",
+	  "answers": {
+		"a": "2-3 mins",
+		"b": "60-90 secs",
+		"c": "10-15 mins",
+		"d": "30 secs"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    {
+      "question": "How many sieves are present in the sieve shaker apparatus (excluding the sieve pan):",
+	  "answers": {
+		"a": "5",
+		"b": "10",
+		"c": "20",
+		"d": "3"
+	  },
+	  "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+	  "question": "What is the relation in the weight of the total sand sample before and after the experiment:",
+	  "answers": {
+		"a": "Weights are equal",
+		"b": "Weight of the sample is more before the experiment",
+		"c": "Weight of the sample is more after the experiment",
+		"d": "Any of the above conditions can happen"
+	  },
+	  "correctAnswer": "a"
+	  "difficulty": "beginner"
+	},
+	{
+	  "question": "Sieve number of the sieve containing the coarsest sand grain is:",
+	  "answers": {
+		"a": "53",
+		"b": "49",
+		"c": "2200",
+		"d": "1700"
+	  },
+	  "correctAnswer": "d"
+	  "difficulty": "beginner"
+	},
+	{
+	"question": "Sieve number of the sieve containing the finest sand grain (just above the sieve pan) is:",
+	"answers": {
+		"a": "53",
+		"b": "49",
+		"c": "2200",
+		"d": "1700"
+	  },
+	"correctAnswer": "a"
+	"difficulty": "beginner"
+	}
   ]
 }

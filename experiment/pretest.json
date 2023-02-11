@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "question": "On what basis are the meshes of the sieve shaker sized:",
+	  "answers": {
+		"a": "Vigility of agitation",
+		"b": "Size of sand grains",
+		"c": "Type of sand used",
+		"d": "All of the above"
+	},
+	  "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      "question": "In which fasion are the sieves arranged in a shaker in accordance to the size of the meshes top to bottom:",
+	  "answers": {
+		"a": "Increasing",
+		"b": "Decreasing",
+		"c": "Random",
+		"d": "Any of the above"
+	},
+	  "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Where is the sand sample introduced initially:",
+	  "answers": {
+		"a": "Topmost sieve",
+		"b": "Bottom sieve",
+		"c": "Fifth sieve form the top",
+		"d": "Any sieve"
+	},
+	  "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "In which sieve are the finest grains collected:",
+	  "answers": {
+		"a": "Topmost sieve",
+		"b": "Below the sieve shaker",
+		"c": "Bottom sieve",
+		"d": "Distribution is random"
+	},
+	  "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Which number is calculated by sieve shaker apparatus",
+	  "answers": {
+		"a": "Sphericity",
+		"b": "Roundness Number",
+		"c": "Permeability Number",
+		"d": "Grain Fineness Number"
+	},
+	  "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
