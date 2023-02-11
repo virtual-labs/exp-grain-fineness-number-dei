@@ -12,5 +12,5 @@
 * The separation is performed by passing the sand sample through a series of sieves by the phenomenon of agitation.
 * Sieve shaker can be of different types based on the sieve distribution and the level of automation.
 * Average grains fineness number, GFN = Q/P
-	where	Q = sum of product of percentage sand retained in sieves and corresponding multiplier
-			P = sum of percentage of sand retained in sieves
+where Q = sum of product of percentage sand retained in sieves and corresponding multiplier
+P = sum of percentage of sand retained in sieves
