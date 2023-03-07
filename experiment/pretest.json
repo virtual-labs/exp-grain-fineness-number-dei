@@ -9,6 +9,12 @@
 		"c": "Type of sand used",
 		"d": "All of the above"
 	},
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	  "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -20,6 +26,12 @@
 		"c": "Random",
 		"d": "Any of the above"
 	},
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	  "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -31,6 +43,12 @@
 		"c": "Fifth sieve form the top",
 		"d": "Any sieve"
 	},
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	  "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -42,6 +60,12 @@
 		"c": "Bottom sieve",
 		"d": "Distribution is random"
 	},
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	  "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -53,6 +77,12 @@
 		"c": "Permeability Number",
 		"d": "Grain Fineness Number"
 	},
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
 	  "correctAnswer": "d",
       "difficulty": "beginner"
     }
