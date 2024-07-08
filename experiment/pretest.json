@@ -10,10 +10,10 @@
 		"d": "All of the above"
 	},
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The meshes of the sieve shaker are sized based on the size of the sand grains being tested. Sieve shakers are used in laboratories to separate particles based on their size. The size of the mesh or sieve openings determines what size particles can pass through and what size particles are retained on each sieve.",
+        "b": "The meshes of the sieve shaker are sized based on the size of the sand grains being tested. Sieve shakers are used in laboratories to separate particles based on their size. The size of the mesh or sieve openings determines what size particles can pass through and what size particles are retained on each sieve.",
+        "c": "The meshes of the sieve shaker are sized based on the size of the sand grains being tested. Sieve shakers are used in laboratories to separate particles based on their size. The size of the mesh or sieve openings determines what size particles can pass through and what size particles are retained on each sieve.",
+        "d": "The meshes of the sieve shaker are sized based on the size of the sand grains being tested. Sieve shakers are used in laboratories to separate particles based on their size. The size of the mesh or sieve openings determines what size particles can pass through and what size particles are retained on each sieve."
       },
 	  "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
 		"d": "Any of the above"
 	},
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In a sieve shaker, the sieves are typically arranged in a stack from top to bottom in order of decreasing mesh size. This arrangement allows for the largest particles to be retained on the top sieve (coarsest) while progressively smaller particles pass through each subsequent sieve (finer) until reaching the bottom sieve (finest).",
+        "b": "In a sieve shaker, the sieves are typically arranged in a stack from top to bottom in order of decreasing mesh size. This arrangement allows for the largest particles to be retained on the top sieve (coarsest) while progressively smaller particles pass through each subsequent sieve (finer) until reaching the bottom sieve (finest).",
+        "c": "In a sieve shaker, the sieves are typically arranged in a stack from top to bottom in order of decreasing mesh size. This arrangement allows for the largest particles to be retained on the top sieve (coarsest) while progressively smaller particles pass through each subsequent sieve (finer) until reaching the bottom sieve (finest).",
+        "d": "In a sieve shaker, the sieves are typically arranged in a stack from top to bottom in order of decreasing mesh size. This arrangement allows for the largest particles to be retained on the top sieve (coarsest) while progressively smaller particles pass through each subsequent sieve (finer) until reaching the bottom sieve (finest)."
       },
 	  "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
 		"d": "Any sieve"
 	},
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "When conducting a sieve analysis to determine the distribution of sand grains, the sand sample is introduced initially onto the topmost sieve of the stack. The purpose of this is to allow the larger particles to be separated out first, with subsequent sieves capturing progressively smaller particles as the sand passes through the sieve stack.",
+        "b": "When conducting a sieve analysis to determine the distribution of sand grains, the sand sample is introduced initially onto the topmost sieve of the stack. The purpose of this is to allow the larger particles to be separated out first, with subsequent sieves capturing progressively smaller particles as the sand passes through the sieve stack.",
+        "c": "When conducting a sieve analysis to determine the distribution of sand grains, the sand sample is introduced initially onto the topmost sieve of the stack. The purpose of this is to allow the larger particles to be separated out first, with subsequent sieves capturing progressively smaller particles as the sand passes through the sieve stack.",
+        "d": "When conducting a sieve analysis to determine the distribution of sand grains, the sand sample is introduced initially onto the topmost sieve of the stack. The purpose of this is to allow the larger particles to be separated out first, with subsequent sieves capturing progressively smaller particles as the sand passes through the sieve stack."
       },
 	  "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
 		"d": "Distribution is random"
 	},
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "During a sieve analysis to determine the distribution of sand grains, the finest grains (smallest particles) are collected on the bottom sieve of the stack. As the sand sample passes through the series of sieves, each sieve captures particles of decreasing size until the smallest particles that can pass through the finest mesh sieve are collected on the bottom sieve.",
+        "b": "During a sieve analysis to determine the distribution of sand grains, the finest grains (smallest particles) are collected on the bottom sieve of the stack. As the sand sample passes through the series of sieves, each sieve captures particles of decreasing size until the smallest particles that can pass through the finest mesh sieve are collected on the bottom sieve.",
+        "c": "During a sieve analysis to determine the distribution of sand grains, the finest grains (smallest particles) are collected on the bottom sieve of the stack. As the sand sample passes through the series of sieves, each sieve captures particles of decreasing size until the smallest particles that can pass through the finest mesh sieve are collected on the bottom sieve.",
+        "d": "During a sieve analysis to determine the distribution of sand grains, the finest grains (smallest particles) are collected on the bottom sieve of the stack. As the sand sample passes through the series of sieves, each sieve captures particles of decreasing size until the smallest particles that can pass through the finest mesh sieve are collected on the bottom sieve."
       },
 	  "correctAnswer": "c",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
 		"d": "Grain Fineness Number"
 	},
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The sieve shaker apparatus is used to conduct a sieve analysis of sand or other particulate materials. During this analysis, the apparatus separates the particles into different size fractions using a series of sieves with progressively finer mesh sizes. The result of this analysis is typically used to calculate the Grain Fineness Number (GFN), which is a measure of the average size of the sand particles.",
+        "b": "The sieve shaker apparatus is used to conduct a sieve analysis of sand or other particulate materials. During this analysis, the apparatus separates the particles into different size fractions using a series of sieves with progressively finer mesh sizes. The result of this analysis is typically used to calculate the Grain Fineness Number (GFN), which is a measure of the average size of the sand particles.",
+        "c": "The sieve shaker apparatus is used to conduct a sieve analysis of sand or other particulate materials. During this analysis, the apparatus separates the particles into different size fractions using a series of sieves with progressively finer mesh sizes. The result of this analysis is typically used to calculate the Grain Fineness Number (GFN), which is a measure of the average size of the sand particles.",
+        "d": "The sieve shaker apparatus is used to conduct a sieve analysis of sand or other particulate materials. During this analysis, the apparatus separates the particles into different size fractions using a series of sieves with progressively finer mesh sizes. The result of this analysis is typically used to calculate the Grain Fineness Number (GFN), which is a measure of the average size of the sand particles."
       },
 	  "correctAnswer": "d",
       "difficulty": "beginner"
