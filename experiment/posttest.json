@@ -10,10 +10,10 @@
 		"d": "30 secs"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In some sieve analysis procedures, especially when dealing with certain types of materials or when a more thorough separation is required, the sieve shaker may be agitated for a longer period of time, typically between 10 to 15 minutes. This extended agitation helps ensure that all particles are adequately separated and accurately sized on their respective sieves.",
+        "b": "In some sieve analysis procedures, especially when dealing with certain types of materials or when a more thorough separation is required, the sieve shaker may be agitated for a longer period of time, typically between 10 to 15 minutes. This extended agitation helps ensure that all particles are adequately separated and accurately sized on their respective sieves.",
+        "c": "In some sieve analysis procedures, especially when dealing with certain types of materials or when a more thorough separation is required, the sieve shaker may be agitated for a longer period of time, typically between 10 to 15 minutes. This extended agitation helps ensure that all particles are adequately separated and accurately sized on their respective sieves.",
+        "d": "In some sieve analysis procedures, especially when dealing with certain types of materials or when a more thorough separation is required, the sieve shaker may be agitated for a longer period of time, typically between 10 to 15 minutes. This extended agitation helps ensure that all particles are adequately separated and accurately sized on their respective sieves."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
 		"d": "3"
 	  },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "A typical sieve shaker apparatus used for sieve analysis in laboratories includes a set of sieves stacked vertically. This set usually consists of multiple sieves, typically around 10 sieves, each with progressively finer mesh sizes from top to bottom. These sieves are used to separate particles based on their size during the sieving process.",
+        "b": "A typical sieve shaker apparatus used for sieve analysis in laboratories includes a set of sieves stacked vertically. This set usually consists of multiple sieves, typically around 10 sieves, each with progressively finer mesh sizes from top to bottom. These sieves are used to separate particles based on their size during the sieving process.",
+        "c": "A typical sieve shaker apparatus used for sieve analysis in laboratories includes a set of sieves stacked vertically. This set usually consists of multiple sieves, typically around 10 sieves, each with progressively finer mesh sizes from top to bottom. These sieves are used to separate particles based on their size during the sieving process.",
+        "d": "A typical sieve shaker apparatus used for sieve analysis in laboratories includes a set of sieves stacked vertically. This set usually consists of multiple sieves, typically around 10 sieves, each with progressively finer mesh sizes from top to bottom. These sieves are used to separate particles based on their size during the sieving process."
       },
 	  "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
 		"d": "Any of the above conditions can happen"
 	  },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In a sieve analysis experiment to determine the grain size distribution of sand or other particulate materials, the weight of the total sand sample before and after the experiment should ideally be the same. This is because the experiment involves separating the sand into different size fractions using sieves, but the total mass of the sand sample remains unchanged throughout the process.",
+        "b": "In a sieve analysis experiment to determine the grain size distribution of sand or other particulate materials, the weight of the total sand sample before and after the experiment should ideally be the same. This is because the experiment involves separating the sand into different size fractions using sieves, but the total mass of the sand sample remains unchanged throughout the process.",
+        "c": "In a sieve analysis experiment to determine the grain size distribution of sand or other particulate materials, the weight of the total sand sample before and after the experiment should ideally be the same. This is because the experiment involves separating the sand into different size fractions using sieves, but the total mass of the sand sample remains unchanged throughout the process.",
+        "d": "In a sieve analysis experiment to determine the grain size distribution of sand or other particulate materials, the weight of the total sand sample before and after the experiment should ideally be the same. This is because the experiment involves separating the sand into different size fractions using sieves, but the total mass of the sand sample remains unchanged throughout the process."
       },
 	  "correctAnswer": "a",
 	  "difficulty": "beginner"
@@ -61,10 +61,10 @@
 		"d": "1700"
 	  },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Sieve number 1700 corresponds to a very fine mesh size used in a different context or for analyzing finer particles rather than coarse sand grains.",
+        "b": "Sieve number 1700 corresponds to a very fine mesh size used in a different context or for analyzing finer particles rather than coarse sand grains.",
+        "c": "Sieve number 1700 corresponds to a very fine mesh size used in a different context or for analyzing finer particles rather than coarse sand grains.",
+        "d": "Sieve number 1700 corresponds to a very fine mesh size used in a different context or for analyzing finer particles rather than coarse sand grains."
       },
 	  "correctAnswer": "d",
 	  "difficulty": "beginner"
@@ -78,10 +78,10 @@
 		"d": "1700"
 	  },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Sieve number 53 would be just above the sieve pan, meaning it captures the largest particles that do not pass through the openings of sieve number 53",
+        "b": "Sieve number 53 would be just above the sieve pan, meaning it captures the largest particles that do not pass through the openings of sieve number 53",
+        "c": "Sieve number 53 would be just above the sieve pan, meaning it captures the largest particles that do not pass through the openings of sieve number 53",
+        "d": "Sieve number 53 would be just above the sieve pan, meaning it captures the largest particles that do not pass through the openings of sieve number 53"
       },
 	"correctAnswer": "a",
 	"difficulty": "beginner"
