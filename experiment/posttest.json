@@ -2,89 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "For how much time is the sieve shaker agitated:",
-	  "answers": {
-		"a": "2-3 mins",
-		"b": "60-90 secs",
-		"c": "10-15 mins",
-		"d": "30 secs"
+      "question": "What does a high GFN value indicate? (LO1)",
+      "answers": {
+        "a": "Coarse sand with high permeability",
+        "b": "Fine sand with low permeability",
+        "c": "Irregular-shaped sand grains",
+        "d": "Sand with high moisture content"
       },
       "explanations": {
-        "a": "In some sieve analysis procedures, especially when dealing with certain types of materials or when a more thorough separation is required, the sieve shaker may be agitated for a longer period of time, typically between 10 to 15 minutes. This extended agitation helps ensure that all particles are adequately separated and accurately sized on their respective sieves.",
-        "b": "In some sieve analysis procedures, especially when dealing with certain types of materials or when a more thorough separation is required, the sieve shaker may be agitated for a longer period of time, typically between 10 to 15 minutes. This extended agitation helps ensure that all particles are adequately separated and accurately sized on their respective sieves.",
-        "c": "In some sieve analysis procedures, especially when dealing with certain types of materials or when a more thorough separation is required, the sieve shaker may be agitated for a longer period of time, typically between 10 to 15 minutes. This extended agitation helps ensure that all particles are adequately separated and accurately sized on their respective sieves.",
-        "d": "In some sieve analysis procedures, especially when dealing with certain types of materials or when a more thorough separation is required, the sieve shaker may be agitated for a longer period of time, typically between 10 to 15 minutes. This extended agitation helps ensure that all particles are adequately separated and accurately sized on their respective sieves."
+        "a": "Higher GFN means smaller sand grains, reducing permeability, which can lead to gas entrapment and casting defects.",
+        "b": "Higher GFN means smaller sand grains, reducing permeability, which can lead to gas entrapment and casting defects.",
+        "c": "Higher GFN means smaller sand grains, reducing permeability, which can lead to gas entrapment and casting defects.",
+        "d": "Higher GFN means smaller sand grains, reducing permeability, which can lead to gas entrapment and casting defects."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "How many sieves are present in the sieve shaker apparatus (excluding the sieve pan):",
-	  "answers": {
-		"a": "5",
-		"b": "10",
-		"c": "20",
-		"d": "3"
-	  },
-      "explanations": {
-        "a": "A typical sieve shaker apparatus used for sieve analysis in laboratories includes a set of sieves stacked vertically. This set usually consists of multiple sieves, typically around 10 sieves, each with progressively finer mesh sizes from top to bottom. These sieves are used to separate particles based on their size during the sieving process.",
-        "b": "A typical sieve shaker apparatus used for sieve analysis in laboratories includes a set of sieves stacked vertically. This set usually consists of multiple sieves, typically around 10 sieves, each with progressively finer mesh sizes from top to bottom. These sieves are used to separate particles based on their size during the sieving process.",
-        "c": "A typical sieve shaker apparatus used for sieve analysis in laboratories includes a set of sieves stacked vertically. This set usually consists of multiple sieves, typically around 10 sieves, each with progressively finer mesh sizes from top to bottom. These sieves are used to separate particles based on their size during the sieving process.",
-        "d": "A typical sieve shaker apparatus used for sieve analysis in laboratories includes a set of sieves stacked vertically. This set usually consists of multiple sieves, typically around 10 sieves, each with progressively finer mesh sizes from top to bottom. These sieves are used to separate particles based on their size during the sieving process."
+      "question": "Which step is crucial before switching on the sieve shaker? (LO2)",
+      "answers": {
+        "a": "Arranging sieves in increasing order (bottom to top)",
+        "b": "Pouring molten metal into the sand",
+        "c": "Removing moisture from the sand",
+        "d": "Mixing sand with water"
       },
-	  "correctAnswer": "b",
+      "explanations": {
+        "a": "Proper sieve arrangement ensures accurate grain size distribution measurement.",
+        "b": "Proper sieve arrangement ensures accurate grain size distribution measurement.",
+        "c": "Proper sieve arrangement ensures accurate grain size distribution measurement.",
+        "d": "Proper sieve arrangement ensures accurate grain size distribution measurement."
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
-	{
-	  "question": "What is the relation in the weight of the total sand sample before and after the experiment:",
-	  "answers": {
-		"a": "Weights are equal",
-		"b": "Weight of the sample is more before the experiment",
-		"c": "Weight of the sample is more after the experiment",
-		"d": "Any of the above conditions can happen"
-	  },
-      "explanations": {
-        "a": "In a sieve analysis experiment to determine the grain size distribution of sand or other particulate materials, the weight of the total sand sample before and after the experiment should ideally be the same. This is because the experiment involves separating the sand into different size fractions using sieves, but the total mass of the sand sample remains unchanged throughout the process.",
-        "b": "In a sieve analysis experiment to determine the grain size distribution of sand or other particulate materials, the weight of the total sand sample before and after the experiment should ideally be the same. This is because the experiment involves separating the sand into different size fractions using sieves, but the total mass of the sand sample remains unchanged throughout the process.",
-        "c": "In a sieve analysis experiment to determine the grain size distribution of sand or other particulate materials, the weight of the total sand sample before and after the experiment should ideally be the same. This is because the experiment involves separating the sand into different size fractions using sieves, but the total mass of the sand sample remains unchanged throughout the process.",
-        "d": "In a sieve analysis experiment to determine the grain size distribution of sand or other particulate materials, the weight of the total sand sample before and after the experiment should ideally be the same. This is because the experiment involves separating the sand into different size fractions using sieves, but the total mass of the sand sample remains unchanged throughout the process."
+  {
+      "question": "Why is it necessary to weigh sand separately after sieving? (LO3)",
+      "answers": {
+        "a": "To determine the amount of metal required for casting",
+        "b": "To calculate the percentage retained in each sieve",
+        "c": "To check if the sand contains moisture",
+        "d": "To measure the density of the sand"
       },
-	  "correctAnswer": "a",
-	  "difficulty": "beginner"
-	},
-	{
-	  "question": "Sieve number of the sieve containing the coarsest sand grain is:",
-	  "answers": {
-		"a": "53",
-		"b": "49",
-		"c": "2200",
-		"d": "1700"
-	  },
       "explanations": {
-        "a": "Sieve number 1700 corresponds to a very fine mesh size used in a different context or for analyzing finer particles rather than coarse sand grains.",
-        "b": "Sieve number 1700 corresponds to a very fine mesh size used in a different context or for analyzing finer particles rather than coarse sand grains.",
-        "c": "Sieve number 1700 corresponds to a very fine mesh size used in a different context or for analyzing finer particles rather than coarse sand grains.",
-        "d": "Sieve number 1700 corresponds to a very fine mesh size used in a different context or for analyzing finer particles rather than coarse sand grains."
+        "a": "Weighing retained sand helps determine grain size distribution, which is used to calculate the Grain Fineness Number (GFN). ",
+        "b": "Weighing retained sand helps determine grain size distribution, which is used to calculate the Grain Fineness Number (GFN). ",
+        "c": "Weighing retained sand helps determine grain size distribution, which is used to calculate the Grain Fineness Number (GFN). ",
+        "d": "Weighing retained sand helps determine grain size distribution, which is used to calculate the Grain Fineness Number (GFN). "
       },
-	  "correctAnswer": "d",
-	  "difficulty": "beginner"
-	},
-	{
-	"question": "Sieve number of the sieve containing the finest sand grain (just above the sieve pan) is:",
-	"answers": {
-		"a": "53",
-		"b": "49",
-		"c": "2200",
-		"d": "1700"
-	  },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Why is grain fineness important in moulding sand? (LO1)",
+      "answers": {
+        "a": "It determines the strength of the final casting",
+        "b": "It affects permeability and surface finish of the casting",
+        "c": "It reduces the need for binders in moulding sand",
+        "d": "It controls the cooling rate of molten metal"
+      },
       "explanations": {
-        "a": "Sieve number 53 would be just above the sieve pan, meaning it captures the largest particles that do not pass through the openings of sieve number 53",
-        "b": "Sieve number 53 would be just above the sieve pan, meaning it captures the largest particles that do not pass through the openings of sieve number 53",
-        "c": "Sieve number 53 would be just above the sieve pan, meaning it captures the largest particles that do not pass through the openings of sieve number 53",
-        "d": "Sieve number 53 would be just above the sieve pan, meaning it captures the largest particles that do not pass through the openings of sieve number 53"
+        "a": "Grain fineness influences how well gases escape (permeability) and the smoothness of the casting surface. Fine sand improves surface finish but lowers permeability, while coarse sand increases permeability but may cause rough casting surfaces.",
+        "b": "Grain fineness influences how well gases escape (permeability) and the smoothness of the casting surface. Fine sand improves surface finish but lowers permeability, while coarse sand increases permeability but may cause rough casting surfaces.",
+        "c": "Grain fineness influences how well gases escape (permeability) and the smoothness of the casting surface. Fine sand improves surface finish but lowers permeability, while coarse sand increases permeability but may cause rough casting surfaces.",
+        "d": "Grain fineness influences how well gases escape (permeability) and the smoothness of the casting surface. Fine sand improves surface finish but lowers permeability, while coarse sand increases permeability but may cause rough casting surfaces."
       },
-	"correctAnswer": "a",
-	"difficulty": "beginner"
-	}
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "How does improper sieve arrangement affect GFN measurement? (LO1)",
+      "answers": {
+        "a": "It makes the sand finer than expected",
+        "b": "It causes inaccurate grain size distribution results",
+        "c": "It improves the casting quality",
+        "d": "It helps separate moisture from sand"
+      },
+      "explanations": {
+        "a": "If sieves are not arranged in the correct order (coarse to fine), the grain size distribution will be incorrect, leading to miscalculated GFN values and potential casting defects due to improper permeability.",
+        "b": "If sieves are not arranged in the correct order (coarse to fine), the grain size distribution will be incorrect, leading to miscalculated GFN values and potential casting defects due to improper permeability.",
+        "c": "If sieves are not arranged in the correct order (coarse to fine), the grain size distribution will be incorrect, leading to miscalculated GFN values and potential casting defects due to improper permeability.",
+        "d": "If sieves are not arranged in the correct order (coarse to fine), the grain size distribution will be incorrect, leading to miscalculated GFN values and potential casting defects due to improper permeability."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
   ]
 }
