@@ -2,88 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "On what basis are the meshes of the sieve shaker sized:",
-	  "answers": {
-		"a": "Vigility of agitation",
-		"b": "Size of sand grains",
-		"c": "Type of sand used",
-		"d": "All of the above"
-	},
-      "explanations": {
-        "a": "The meshes of the sieve shaker are sized based on the size of the sand grains being tested. Sieve shakers are used in laboratories to separate particles based on their size. The size of the mesh or sieve openings determines what size particles can pass through and what size particles are retained on each sieve.",
-        "b": "The meshes of the sieve shaker are sized based on the size of the sand grains being tested. Sieve shakers are used in laboratories to separate particles based on their size. The size of the mesh or sieve openings determines what size particles can pass through and what size particles are retained on each sieve.",
-        "c": "The meshes of the sieve shaker are sized based on the size of the sand grains being tested. Sieve shakers are used in laboratories to separate particles based on their size. The size of the mesh or sieve openings determines what size particles can pass through and what size particles are retained on each sieve.",
-        "d": "The meshes of the sieve shaker are sized based on the size of the sand grains being tested. Sieve shakers are used in laboratories to separate particles based on their size. The size of the mesh or sieve openings determines what size particles can pass through and what size particles are retained on each sieve."
+      "question": "What does the Grain Fineness Number (GFN) measure in a sand sample? (LO1)",
+      "answers": {
+        "a": "The weight of the sand sample",
+        "b": "The permeability of the sand",
+        "c": "The average grain size of the sand",
+        "d": "The moisture content of the sand"
       },
-	  "correctAnswer": "b",
+      "explanations": {
+        "a": "The Grain Fineness Number (GFN) represents the average size of sand grains in a sample. It is a crucial parameter in sand casting because grain size directly affects the quality of the mould and the final casting. A higher GFN indicates finer grains, which provide a smoother surface finish but may reduce permeability, while a lower GFN represents coarser grains, which improve permeability but can lead to surface defects like metal penetration.",
+        "b": "The Grain Fineness Number (GFN) represents the average size of sand grains in a sample. It is a crucial parameter in sand casting because grain size directly affects the quality of the mould and the final casting. A higher GFN indicates finer grains, which provide a smoother surface finish but may reduce permeability, while a lower GFN represents coarser grains, which improve permeability but can lead to surface defects like metal penetration.",
+        "c": "The Grain Fineness Number (GFN) represents the average size of sand grains in a sample. It is a crucial parameter in sand casting because grain size directly affects the quality of the mould and the final casting. A higher GFN indicates finer grains, which provide a smoother surface finish but may reduce permeability, while a lower GFN represents coarser grains, which improve permeability but can lead to surface defects like metal penetration.",
+        "d": "The Grain Fineness Number (GFN) represents the average size of sand grains in a sample. It is a crucial parameter in sand casting because grain size directly affects the quality of the mould and the final casting. A higher GFN indicates finer grains, which provide a smoother surface finish but may reduce permeability, while a lower GFN represents coarser grains, which improve permeability but can lead to surface defects like metal penetration."
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "In which fasion are the sieves arranged in a shaker in accordance to the size of the meshes top to bottom:",
-	  "answers": {
-		"a": "Increasing",
-		"b": "Decreasing",
-		"c": "Random",
-		"d": "Any of the above"
-	},
-      "explanations": {
-        "a": "In a sieve shaker, the sieves are typically arranged in a stack from top to bottom in order of decreasing mesh size. This arrangement allows for the largest particles to be retained on the top sieve (coarsest) while progressively smaller particles pass through each subsequent sieve (finer) until reaching the bottom sieve (finest).",
-        "b": "In a sieve shaker, the sieves are typically arranged in a stack from top to bottom in order of decreasing mesh size. This arrangement allows for the largest particles to be retained on the top sieve (coarsest) while progressively smaller particles pass through each subsequent sieve (finer) until reaching the bottom sieve (finest).",
-        "c": "In a sieve shaker, the sieves are typically arranged in a stack from top to bottom in order of decreasing mesh size. This arrangement allows for the largest particles to be retained on the top sieve (coarsest) while progressively smaller particles pass through each subsequent sieve (finer) until reaching the bottom sieve (finest).",
-        "d": "In a sieve shaker, the sieves are typically arranged in a stack from top to bottom in order of decreasing mesh size. This arrangement allows for the largest particles to be retained on the top sieve (coarsest) while progressively smaller particles pass through each subsequent sieve (finer) until reaching the bottom sieve (finest)."
+      "question": "Which of the following factors affects the Grain Fineness Number (GFN) in a sand metal casting process? (LO1)",
+      "answers": {
+        "a": "Pouring temperature",
+        "b": "Type of metal used",
+        "c": "Desired surface finish",
+        "d": "All of the above"
       },
-	  "correctAnswer": "b",
+      "explanations": {
+        "a": "The Grain Fineness Number (GFN) is influenced by multiple factors that impact casting quality.Type of metal used: Different metals require different moulding sands to ensure proper solidification and prevent casting defects.Pouring temperature: Higher temperatures can cause finer sand grains to fuse, altering the GFN.Desired surface finish: A smoother finish requires finer sand (high GFN), while coarser sand (low GFN) is used for better permeability and gas escape.",
+        "b": "The Grain Fineness Number (GFN) is influenced by multiple factors that impact casting quality.Type of metal used: Different metals require different moulding sands to ensure proper solidification and prevent casting defects.Pouring temperature: Higher temperatures can cause finer sand grains to fuse, altering the GFN.Desired surface finish: A smoother finish requires finer sand (high GFN), while coarser sand (low GFN) is used for better permeability and gas escape.",
+        "c": "The Grain Fineness Number (GFN) is influenced by multiple factors that impact casting quality.Type of metal used: Different metals require different moulding sands to ensure proper solidification and prevent casting defects.Pouring temperature: Higher temperatures can cause finer sand grains to fuse, altering the GFN.Desired surface finish: A smoother finish requires finer sand (high GFN), while coarser sand (low GFN) is used for better permeability and gas escape.",
+        "d": "The Grain Fineness Number (GFN) is influenced by multiple factors that impact casting quality.Type of metal used: Different metals require different moulding sands to ensure proper solidification and prevent casting defects.Pouring temperature: Higher temperatures can cause finer sand grains to fuse, altering the GFN.Desired surface finish: A smoother finish requires finer sand (high GFN), while coarser sand (low GFN) is used for better permeability and gas escape."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
-	{
-      "question": "Where is the sand sample introduced initially:",
-	  "answers": {
-		"a": "Topmost sieve",
-		"b": "Bottom sieve",
-		"c": "Fifth sieve form the top",
-		"d": "Any sieve"
-	},
-      "explanations": {
-        "a": "When conducting a sieve analysis to determine the distribution of sand grains, the sand sample is introduced initially onto the topmost sieve of the stack. The purpose of this is to allow the larger particles to be separated out first, with subsequent sieves capturing progressively smaller particles as the sand passes through the sieve stack.",
-        "b": "When conducting a sieve analysis to determine the distribution of sand grains, the sand sample is introduced initially onto the topmost sieve of the stack. The purpose of this is to allow the larger particles to be separated out first, with subsequent sieves capturing progressively smaller particles as the sand passes through the sieve stack.",
-        "c": "When conducting a sieve analysis to determine the distribution of sand grains, the sand sample is introduced initially onto the topmost sieve of the stack. The purpose of this is to allow the larger particles to be separated out first, with subsequent sieves capturing progressively smaller particles as the sand passes through the sieve stack.",
-        "d": "When conducting a sieve analysis to determine the distribution of sand grains, the sand sample is introduced initially onto the topmost sieve of the stack. The purpose of this is to allow the larger particles to be separated out first, with subsequent sieves capturing progressively smaller particles as the sand passes through the sieve stack."
+  {
+      "question": "What is the effect of using a sand sample with a high GFN? (LO1)",
+      "answers": {
+        "a": "Increased permeability and gas defects",
+        "b": "Low permeability, leading to gas defects",
+        "c": "High metal penetration and rough surface finish",
+        "d": "Increased burn-in and burn-on defects"
       },
-	  "correctAnswer": "a",
+      "explanations": {
+        "a": ": A high GFN indicates finer sand grains, which pack tightly together, reducing the gaps between particles. This results in low permeability, making it difficult for gases and moisture to escape from the mould during casting. When gases get trapped, they create defects like gas porosity, pinholes, and blowholes, negatively affecting the casting's integrity.",
+        "b": ": A high GFN indicates finer sand grains, which pack tightly together, reducing the gaps between particles. This results in low permeability, making it difficult for gases and moisture to escape from the mould during casting. When gases get trapped, they create defects like gas porosity, pinholes, and blowholes, negatively affecting the casting's integrity.",
+        "c": ": A high GFN indicates finer sand grains, which pack tightly together, reducing the gaps between particles. This results in low permeability, making it difficult for gases and moisture to escape from the mould during casting. When gases get trapped, they create defects like gas porosity, pinholes, and blowholes, negatively affecting the casting's integrity.",
+        "d": ": A high GFN indicates finer sand grains, which pack tightly together, reducing the gaps between particles. This results in low permeability, making it difficult for gases and moisture to escape from the mould during casting. When gases get trapped, they create defects like gas porosity, pinholes, and blowholes, negatively affecting the casting's integrity."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
-	{
-      "question": "In which sieve are the finest grains collected:",
-	  "answers": {
-		"a": "Topmost sieve",
-		"b": "Below the sieve shaker",
-		"c": "Bottom sieve",
-		"d": "Distribution is random"
-	},
-      "explanations": {
-        "a": "During a sieve analysis to determine the distribution of sand grains, the finest grains (smallest particles) are collected on the bottom sieve of the stack. As the sand sample passes through the series of sieves, each sieve captures particles of decreasing size until the smallest particles that can pass through the finest mesh sieve are collected on the bottom sieve.",
-        "b": "During a sieve analysis to determine the distribution of sand grains, the finest grains (smallest particles) are collected on the bottom sieve of the stack. As the sand sample passes through the series of sieves, each sieve captures particles of decreasing size until the smallest particles that can pass through the finest mesh sieve are collected on the bottom sieve.",
-        "c": "During a sieve analysis to determine the distribution of sand grains, the finest grains (smallest particles) are collected on the bottom sieve of the stack. As the sand sample passes through the series of sieves, each sieve captures particles of decreasing size until the smallest particles that can pass through the finest mesh sieve are collected on the bottom sieve.",
-        "d": "During a sieve analysis to determine the distribution of sand grains, the finest grains (smallest particles) are collected on the bottom sieve of the stack. As the sand sample passes through the series of sieves, each sieve captures particles of decreasing size until the smallest particles that can pass through the finest mesh sieve are collected on the bottom sieve."
+  {
+      "question": "What is the purpose of using a sieve shaker? (LO2)",
+      "answers": {
+        "a": "To melt sand grains for better fineness",
+        "b": "To separate sand particles based on size using agitation",
+        "c": "To increase the weight of the sand sample",
+        "d": "To chemically bond sand particles together"
       },
-	  "correctAnswer": "c",
+      "explanations": {
+        "a": "A sieve shaker is used to determine the distribution of grain sizes within a sand sample. It vibrates and passes the sand through a series of sieves, each with different mesh sizes, separating the grains based on their size and weight. This process helps in analysing the grain fineness number (GFN) and ensures the right sand is selected for casting applications.",
+        "b": "A sieve shaker is used to determine the distribution of grain sizes within a sand sample. It vibrates and passes the sand through a series of sieves, each with different mesh sizes, separating the grains based on their size and weight. This process helps in analysing the grain fineness number (GFN) and ensures the right sand is selected for casting applications.",
+        "c": "A sieve shaker is used to determine the distribution of grain sizes within a sand sample. It vibrates and passes the sand through a series of sieves, each with different mesh sizes, separating the grains based on their size and weight. This process helps in analysing the grain fineness number (GFN) and ensures the right sand is selected for casting applications.",
+        "d": "A sieve shaker is used to determine the distribution of grain sizes within a sand sample. It vibrates and passes the sand through a series of sieves, each with different mesh sizes, separating the grains based on their size and weight. This process helps in analysing the grain fineness number (GFN) and ensures the right sand is selected for casting applications."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
-	{
-      "question": "Which number is calculated by sieve shaker apparatus",
-	  "answers": {
-		"a": "Sphericity",
-		"b": "Roundness Number",
-		"c": "Permeability Number",
-		"d": "Grain Fineness Number"
-	},
-      "explanations": {
-        "a": "The sieve shaker apparatus is used to conduct a sieve analysis of sand or other particulate materials. During this analysis, the apparatus separates the particles into different size fractions using a series of sieves with progressively finer mesh sizes. The result of this analysis is typically used to calculate the Grain Fineness Number (GFN), which is a measure of the average size of the sand particles.",
-        "b": "The sieve shaker apparatus is used to conduct a sieve analysis of sand or other particulate materials. During this analysis, the apparatus separates the particles into different size fractions using a series of sieves with progressively finer mesh sizes. The result of this analysis is typically used to calculate the Grain Fineness Number (GFN), which is a measure of the average size of the sand particles.",
-        "c": "The sieve shaker apparatus is used to conduct a sieve analysis of sand or other particulate materials. During this analysis, the apparatus separates the particles into different size fractions using a series of sieves with progressively finer mesh sizes. The result of this analysis is typically used to calculate the Grain Fineness Number (GFN), which is a measure of the average size of the sand particles.",
-        "d": "The sieve shaker apparatus is used to conduct a sieve analysis of sand or other particulate materials. During this analysis, the apparatus separates the particles into different size fractions using a series of sieves with progressively finer mesh sizes. The result of this analysis is typically used to calculate the Grain Fineness Number (GFN), which is a measure of the average size of the sand particles."
+ {
+      "question": "How does an incorrect Grain Fineness Number (GFN) affect the final casting quality? (LO1)",
+      "answers": {
+        "a": "It can lead to surface defects such as roughness or gas porosity",
+        "b": "It has no impact on the final casting quality",
+        "c": "It improves the mechanical strength of the casting",
+        "d": "It increases the cooling rate of molten metal"
       },
-	  "correctAnswer": "d",
+      "explanations": {
+        "a": "An incorrect GFN can negatively impact casting quality in multiple ways.If GFN is too high (finer sand): Low permeability may cause gas porosity and blowholes, as trapped gases cannot escape easily.If GFN is too low (coarser sand) High permeability can lead to metal penetration, burn-on defects, and rough surface finish.Maintaining the correct GFN is essential to achieving a balance between permeability and surface finish, ensuring a defect-free casting.",
+        "b": "An incorrect GFN can negatively impact casting quality in multiple ways.If GFN is too high (finer sand): Low permeability may cause gas porosity and blowholes, as trapped gases cannot escape easily.If GFN is too low (coarser sand) High permeability can lead to metal penetration, burn-on defects, and rough surface finish.Maintaining the correct GFN is essential to achieving a balance between permeability and surface finish, ensuring a defect-free casting.",
+        "c": "An incorrect GFN can negatively impact casting quality in multiple ways.If GFN is too high (finer sand): Low permeability may cause gas porosity and blowholes, as trapped gases cannot escape easily.If GFN is too low (coarser sand) High permeability can lead to metal penetration, burn-on defects, and rough surface finish.Maintaining the correct GFN is essential to achieving a balance between permeability and surface finish, ensuring a defect-free casting.",
+        "d": "An incorrect GFN can negatively impact casting quality in multiple ways.If GFN is too high (finer sand): Low permeability may cause gas porosity and blowholes, as trapped gases cannot escape easily.If GFN is too low (coarser sand) High permeability can lead to metal penetration, burn-on defects, and rough surface finish.Maintaining the correct GFN is essential to achieving a balance between permeability and surface finish, ensuring a defect-free casting."
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
