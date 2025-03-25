@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does a high GFN value indicate? (LO1)",
+      "answers": {
+        "a": "Coarse sand with high permeability",
+        "b": "Fine sand with low permeability",
+        "c": "Irregular-shaped sand grains",
+        "d": "Sand with high moisture content"
+      },
+      "explanations": {
+        "a": "Higher GFN means smaller sand grains, reducing permeability, which can lead to gas entrapment and casting defects.",
+        "b": "Higher GFN means smaller sand grains, reducing permeability, which can lead to gas entrapment and casting defects.",
+        "c": "Higher GFN means smaller sand grains, reducing permeability, which can lead to gas entrapment and casting defects.",
+        "d": "Higher GFN means smaller sand grains, reducing permeability, which can lead to gas entrapment and casting defects."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which step is crucial before switching on the sieve shaker? (LO2)",
+      "answers": {
+        "a": "Arranging sieves in increasing order (bottom to top)",
+        "b": "Pouring molten metal into the sand",
+        "c": "Removing moisture from the sand",
+        "d": "Mixing sand with water"
+      },
+      "explanations": {
+        "a": "Proper sieve arrangement ensures accurate grain size distribution measurement.",
+        "b": "Proper sieve arrangement ensures accurate grain size distribution measurement.",
+        "c": "Proper sieve arrangement ensures accurate grain size distribution measurement.",
+        "d": "Proper sieve arrangement ensures accurate grain size distribution measurement."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Why is it necessary to weigh sand separately after sieving? (LO3)",
+      "answers": {
+        "a": "To determine the amount of metal required for casting",
+        "b": "To calculate the percentage retained in each sieve",
+        "c": "To check if the sand contains moisture",
+        "d": "To measure the density of the sand"
+      },
+      "explanations": {
+        "a": "Weighing retained sand helps determine grain size distribution, which is used to calculate the Grain Fineness Number (GFN). ",
+        "b": "Weighing retained sand helps determine grain size distribution, which is used to calculate the Grain Fineness Number (GFN). ",
+        "c": "Weighing retained sand helps determine grain size distribution, which is used to calculate the Grain Fineness Number (GFN). ",
+        "d": "Weighing retained sand helps determine grain size distribution, which is used to calculate the Grain Fineness Number (GFN). "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Why is grain fineness important in moulding sand? (LO1)",
+      "answers": {
+        "a": "It determines the strength of the final casting",
+        "b": "It affects permeability and surface finish of the casting",
+        "c": "It reduces the need for binders in moulding sand",
+        "d": "It controls the cooling rate of molten metal"
+      },
+      "explanations": {
+        "a": "Grain fineness influences how well gases escape (permeability) and the smoothness of the casting surface. Fine sand improves surface finish but lowers permeability, while coarse sand increases permeability but may cause rough casting surfaces.",
+        "b": "Grain fineness influences how well gases escape (permeability) and the smoothness of the casting surface. Fine sand improves surface finish but lowers permeability, while coarse sand increases permeability but may cause rough casting surfaces.",
+        "c": "Grain fineness influences how well gases escape (permeability) and the smoothness of the casting surface. Fine sand improves surface finish but lowers permeability, while coarse sand increases permeability but may cause rough casting surfaces.",
+        "d": "Grain fineness influences how well gases escape (permeability) and the smoothness of the casting surface. Fine sand improves surface finish but lowers permeability, while coarse sand increases permeability but may cause rough casting surfaces."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "How does improper sieve arrangement affect GFN measurement? (LO1)",
+      "answers": {
+        "a": "It makes the sand finer than expected",
+        "b": "It causes inaccurate grain size distribution results",
+        "c": "It improves the casting quality",
+        "d": "It helps separate moisture from sand"
+      },
+      "explanations": {
+        "a": "If sieves are not arranged in the correct order (coarse to fine), the grain size distribution will be incorrect, leading to miscalculated GFN values and potential casting defects due to improper permeability.",
+        "b": "If sieves are not arranged in the correct order (coarse to fine), the grain size distribution will be incorrect, leading to miscalculated GFN values and potential casting defects due to improper permeability.",
+        "c": "If sieves are not arranged in the correct order (coarse to fine), the grain size distribution will be incorrect, leading to miscalculated GFN values and potential casting defects due to improper permeability.",
+        "d": "If sieves are not arranged in the correct order (coarse to fine), the grain size distribution will be incorrect, leading to miscalculated GFN values and potential casting defects due to improper permeability."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
