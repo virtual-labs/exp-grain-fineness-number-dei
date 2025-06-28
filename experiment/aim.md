@@ -1,7 +1,7 @@
-### To find the distribution of sand grains using a set of sieves and to find the average grain fineness number
+### Aim
+To find the distribution of sand grains using a set of sieves and to find the average grain fineness number.
 
-### LEARNING OBJECTIVES
-
+### Learning Objectives
 LO1: To define Grain Fineness Number (GFN) and explain its significance in sand testing.
 
 LO2: To understand how the sieve shaker mechanism works in separating sand grains based on size.
